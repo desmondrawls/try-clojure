@@ -27,6 +27,7 @@ FIXME: listing of options this app accepts.
 ### Helpful Links
 
 (8th Light on requiring)[https://8thlight.com/blog/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html
+(Good examples of clojure projects (including interop))[https://github.com/clojurebook/ClojureProgramming]
 
 ## License
 
